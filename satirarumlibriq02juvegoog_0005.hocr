@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./satirarumlibriq02juvegoog_0005.png"; bbox 0 0 2444 3984; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 435 3337 829 3371">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 435 3337 829 3371">
+     <span class='ocr_line' id='line_1_1' title="bbox 435 3337 829 3371; baseline 0.01 -5"><span class='ocrx_word' id='word_1_1' title='bbox 435 3337 541 3368; x_wconf 71' lang='lat' dir='ltr'><strong>mem:</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 556 3339 624 3368; x_wconf 75' lang='lat' dir='ltr'><strong>‘mm</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 638 3339 660 3368; x_wconf 77' lang='lat' dir='ltr'><strong>B.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 671 3338 692 3368; x_wconf 79' lang='lat' dir='ltr'><strong>G.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 702 3339 829 3371; x_wconf 72' lang='lat' dir='ltr'>numm.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1226 3984">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1226 3984">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1226 3984; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1226 3984; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
